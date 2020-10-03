@@ -1,0 +1,51 @@
+baseurl                  = "https://airportpeople.github.io"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "airport people"
+# theme                    = "hugo-theme-sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+googleAnalytics          = "UA-109890414-1"                               # Tracking code, eg. "UA-111111111-1"
+  
+[params]
+    dateform             = "2006.01.02"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "circle.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "music for .thought. for music"
+
+# Metadata for Open Graph and Twitter
+    description          = "Minimalist music and accompanying thoughts."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "airport people"
+    # rss                = ""
+
+[[params.videoBackgroud.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+
+[params.videoBackgroud]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "music"
+    text = "music"
+
+[[params.mainMenu]]
+    link = "fyi"
+    text = "for"
+
+[[params.mainMenu]]
+    link = "thought"
+    text = "thought"
+
+[[params.mainMenu]]
+    link = "about"
+    text = ".ap."
+
+[imaging]
+    quality = 75
+
+# Get date in terminal with the command `blog_date`

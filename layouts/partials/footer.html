@@ -1,0 +1,21 @@
+{{ partial "mailchimp.html" . }}
+{{ .Site.Params.footerText | markdownify }}
+
+<script
+  src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+  type="application/javascript"
+></script>
+<script type="application/javascript">
+  littlefoot.littlefoot({
+    buttonTemplate: '<button \
+                      aria-expanded="false" \
+                      aria-label="Footnote <% number %>" \
+                      class="littlefoot-footnote__button" \
+                      id="<% reference %>" \
+                      title="See Footnote <% number %>" \
+                      style="background-color: transparent; margin: 0 0 0 0; padding: 0px; vertical-align: top; text-align: center; font-weight: 200; color: #16264c; font-size: .7em; min-width: 3px; "\
+                    /> \
+                      <% number %> \
+                    </button>'
+  })  // Pass any littlefoot settings here.
+</script>

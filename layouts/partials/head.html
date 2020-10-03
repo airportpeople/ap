@@ -1,0 +1,19 @@
+{{ partial "head/metadata.html" . }}
+{{ partial "head/favicons.html" . }}
+{{ partial "head/css.html" . }}
+<!-- Google fonts-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Monsieur+La+Doulaise&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amita:wght@400;700&family=Josefin+Sans:ital,wght@0,100;0,300;0,500;1,100;1,300;1,500&display=swap">
+
+{{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/google_analytics_async.html" . }}
+
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
