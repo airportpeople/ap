@@ -10,7 +10,7 @@ clickablePhotos: true
 
 The best way to get a hold of me is to send an email to airportpeoplemusic@gmail.com. You can subscribe to my newsletter with your email address at the bottom of each page.
 
-During the pandemic, I will only be posting videos of performances. Eventually (hopefully), I'll be open for booking small-audience house shows. Check back periodically for updates.
+During the pandemic, I may only be posting videos of performances. Eventually (hopefully), I'll be open for booking small-audience or house shows. Check back periodically for updates.
 
 # Tour
 
