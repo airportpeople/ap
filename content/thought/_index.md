@@ -1,5 +1,5 @@
 ---
-title: "Thought"
+title: "thought"
 date: 2020-09-12T17:54:20
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Music"
+title: "music"
 url: "/music"
 ---
 
 All music I release is available for download or purchase on [Bandcamp](https://airportpeople.bandcamp.com/).
 
-# Releases
+# releases
 
 {{<figure class="release" alt="the yawning seam and corroded bolt" src="https://f4.bcbits.com/img/a0865192323_10.jpg" link="https://airportpeople.bandcamp.com/album/the-yawning-seam-and-corroded-bolt" target="_blank">}}
 

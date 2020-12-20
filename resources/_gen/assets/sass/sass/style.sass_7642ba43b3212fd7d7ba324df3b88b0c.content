@@ -7,13 +7,13 @@
 html {
   background-color: #FCF9EA;
   background-image: url("/groovepaper.png");
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 16px; }
 
 body {
   font-size: 20px;
-  font-family: "Josefin Sans", sans-serif;
-  font-weight: 300;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
   color: #383b3e;
   line-height: 2rem;
   letter-spacing: 1.5px;
@@ -31,8 +31,8 @@ header {
       padding: 3em 0; } }
 h1, h2, h3 {
   margin-bottom: 0.5em;
-  font-family: 'Monsieur La Doulaise', cursive;
-  font-weight: 400; }
+  font-family: "Source Serif Pro", serif;
+  font-weight: 300; }
 
 h1 {
   font-size: 3.2em;
@@ -116,7 +116,7 @@ nav {
   bottom: 0;
   padding: 1rem;
   padding-bottom: 40px;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 1rem;
   line-height: 1em;
   opacity: 0.8; }
@@ -128,9 +128,9 @@ nav {
   min-height: calc(100vh - 6em); }
 
 .big-link {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 3rem;
-  font-weight: 300;
+  font-weight: 200;
   color: #fff;
   border-color: #fff;
   margin-bottom: 2rem;
@@ -154,8 +154,9 @@ nav {
   padding: 2px;
   border: none;
   background: none;
-  font-family: "Monsieur La Doulaise", cursive;
-  font-size: 1.5rem;
+  font-weight: 300;
+  font-family: "Source Serif Pro", serif;
+  font-size: 1.4rem;
   color: #39424E;
   margin-bottom: 1.5rem; }
 
@@ -166,15 +167,15 @@ nav {
   background: transparent;
   border: none;
   border-bottom: 1px solid #383b3e;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 1.2rem;
-  font-weight: 100;
+  font-weight: 200;
   text-align: center;
   width: 300px; }
 
 #title {
   margin-top: 3rem;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 2rem;
   line-height: 3rem;
   margin-bottom: 2rem; }
