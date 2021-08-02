@@ -12,9 +12,11 @@ The best way to get a hold of me is to send an email to airportpeoplemusic@gmail
 
 I am also active on [Instagram](https://www.instagram.com/airportpeoplemusic/).
 
-# tour
+# shows
 
-No shows currently lined up. Eventually (hopefully), I'll be open for booking small-audience or house shows. Check periodically for updates.
+**2021.08.12** - w/ [Blue Rose](https://bluer0se.bandcamp.com/releases) @ [SSP](https://www.instagram.com/state.street.pub/)
+
+**2021.10.15** - w/ [Wife Patrol](https://wifepatrol.bandcamp.com/) & [Blvck Hippie](https://blvckhippieband.bandcamp.com/) @ [SSP](https://www.instagram.com/state.street.pub/)
 
 # news
 
