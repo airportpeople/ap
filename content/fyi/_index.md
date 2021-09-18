@@ -16,6 +16,10 @@ I am also active on [Instagram](https://www.instagram.com/airportpeoplemusic/).
 
 **2021.08.12** - w/ [Blue Rose](https://bluer0se.bandcamp.com/releases) @ [SSP](https://www.instagram.com/state.street.pub/)
 
+**2021.09.25** - in *"ACCESS: A Collaborative EP Constructed in 24 Hours"* @ [Soundspace Indy](https://sndspc.com/)
+
+**2021.10.03** - w/ channel and form @ [The Garage](https://facebook.com/events/s/sunday-sound-sessions/221234916699191/)
+
 **2021.10.15** - w/ [Wife Patrol](https://wifepatrol.bandcamp.com/) & [Blvck Hippie](https://blvckhippieband.bandcamp.com/) @ [SSP](https://www.instagram.com/state.street.pub/)
 
 # news
