@@ -3,7 +3,7 @@ title: "music"
 url: "/music"
 ---
 
-All music I release is available for download or purchase on [Bandcamp](https://airportpeople.bandcamp.com/).
+Available on Bandcamp, Spotify, and all the streaming places.
 
 # releases
 
