@@ -1,0 +1,41 @@
+[view]
+other = "⭢"
+[code]
+other = "code"
+[viewAll]
+other = "· · ·"
+[letsChat]
+other = "e_mail"
+[name]
+other = "name"
+[email]
+other = "email"
+[subject]
+other = "subject"
+[message]
+other = "words"
+[send]
+other = "post"
+[thanksForYourEmail]
+other = "posted!"
+[minuteRead]
+one = "One minute read"
+other = "{{.Count}} minutes read"
+[latestPosts]
+other = "thoug/ts"
+[enableJavaScript]
+other = "Please enable JavaScript to view comments powered by"
+[404Message]
+other = "problems ..."
+[themeDevelopedBy]
+other = "Theme developed by"
+[copyright]
+other = "copyright"
+[bandcamp]
+other = "bandcamp"
+[instagram]
+other = "instagram"
+[github]
+other = "github"
+[twitter]
+other = "twitter"

@@ -1,19 +1,21 @@
----
-title: "airport people"
-date: 2020-09-11T15:35:09
-math: false
----
++++
+title = "ab°ut"
+date = "2022-05-22T17:39:21-07:00"
+draft = false
+math = true
++++
 
-{{<figure class="self-portrait" alt="me" src="/self3.jpg">}}
+leon johnson.  
+indianapolis, in based.  
+ambient, neoclassical, quasi-jazz.  
+multi-instrumentalist and composer.  
 
-# who
+2022.06.14 fishers, in[^fn:fishers]  
+2022.06.25 garfield, in[^fn:garfield]  
+2022.09.04 cincinnati, oh[^fn:cinci]
 
-I'm Leon. I make music and think about things.[^fn:phil] I hope to pair my music with my philosophy, and that is the aim of this website.
+[^fn:fishers]: Chow and Chanties. Outside the [Fishers Library](https://hepl.evanced.info/signup/EventDetails?EventId=65018&backTo=Calendar&startDate=2022/06/01), w/ Clockwork Jones.
+[^fn:garfield]: In Garfield Park at the [Garfield Park Arts and Music Festival](https://www.eventbrite.com/e/garfield-park-art-music-festival-tickets-339603452067).
+[^fn:cinci]: Whited Sepulchre Records Music Fest, at The Hexagon House.
 
-[^fn:phil]: In particular, I'm interested in the gap between what we think we know and what we can never know.
-
-I live in a little house in Fountain Square, Indianapolis, IN, with my partner Grace and our dog Lyra. We like to read a lot, but we also like to watch Netflix sometimes.
-
-# why
-
-We can think of an international or domestic **airport** as a meeting place for everyone, from all over the world: family, friends, enemies, strangers, co-workers, and colleagues alike. I grew up in a family which traveled a lot, and I always found a sort of romanticism in the shared existence and disparate interactions of **people** at these meeting places. When family members greet one another for the first time in ages, or when co-workers are escaping the office to travel to a new environment, or when individuals are just waiting to get from point A to point B, we are all the same, sharing some sort of strange limbo existence — individually, together.
+[booking](/#contact)

@@ -1,51 +1,67 @@
-baseurl                  = "https://airportpeople.github.io"           # Your domain name
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
-isMultilingual           = false
-title                    = "airport people"
-# theme                    = "hugo-theme-sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
-googleAnalytics          = "UA-109890414-1"                               # Tracking code, eg. "UA-111111111-1"
-  
-[params]
-    dateform             = "2006.01.02"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "circle.ico"
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "music for .thought. for music"
+title = "airport people"
+baseURL = "https://airport-people.com"
+tags = ["music", "philosophy", "composer"]
+languageCode = "en-US"
+config = "config.toml"
+# theme = "osprey"
+canonifyURLS = true
+googleAnalytics = "UA-109890414-1"
+# disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
-# Metadata for Open Graph and Twitter
-    description          = "Minimalist music and accompanying thoughts."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "airport people"
-    # rss                = ""
+[Params]
+  tagline = "ap"
+  author = "Leon Johnson"
+  description = "multi-instrumentalist and composer"
+  logoBig = "/images/braille.svg"
+  logoSmall = "/images/braille_small.svg"
+  favicon = "favicon.ico"
+  # opengraphImage = "/images/osprey.png"
+  email = "airportpeoplemusic@gmail.com"
+  googleTagManger = ""
+  customCSS = false
 
-[[params.videoBackgroud.sources]]
-    source  = "/sample_video.mp4"
-    type    = "video/mp4"
-    poster  = "/background.png"
+  # Social media links in footer
+  bandcamp = "airportpeople"
+  instagram = "airportpeoplemusic"
+  github = "airportpeople"
+  # twitter = "TomaNistor"
 
-[params.videoBackgroud]
-    overlay = "rgba(0, 0, 0, 0.4)" # optional
 
-[[params.mainMenu]]
-    link = "music"
-    text = "music"
+  # Copyright and theme author credit in footer
+  copyright = true
+  credit = false
 
-[[params.mainMenu]]
-    link = "fyi"
-    text = "for"
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = false
+  cacheBustJS = false
 
-[[params.mainMenu]]
-    link = "thought"
-    text = "thought"
+  # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
 
-[[params.mainMenu]]
-    link = "about"
-    text = ".ap."
+  # Choose either Formspree contact form or Basin contact form
+  ajaxFormspree = false
+  ajaxFormspreeGold = false
+  ajaxBasin = "https://usebasin.com/f/4eca6ae3d15f"
 
-[imaging]
-    quality = 75
+  # Lazy loading with lazysizes
+  lazyloading = true
 
-# Get date in terminal with the command `blog_date`
+[[menu.main]]
+  name = "ab°ut"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "mus|c"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "thoug/ts"
+  url  = "/#blog"
+  weight = 3
+[[menu.main]]
+  name = "e_mail"
+  url  = "/#contact"
+  weight = 4
