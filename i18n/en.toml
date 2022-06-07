@@ -14,6 +14,8 @@ other = "email"
 other = "subject"
 [message]
 other = "words"
+[work]
+other = "mus|c"
 [send]
 other = "post"
 [thanksForYourEmail]

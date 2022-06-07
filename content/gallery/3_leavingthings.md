@@ -1,8 +1,8 @@
 +++
-date = "2022-01-01T21:52:57-07:00"
+date = "2021-01-01T21:52:57-07:00"
 title = "sync licensing"
 image = "lt_logo.png"
-alt = "this is some music"
+alt = "sync licensing publisher"
 color = "#F7F7F7"
 link1 = "https://leavingthings.com/artists-feed/airport-people"
 link2 = ""

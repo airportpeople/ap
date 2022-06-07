@@ -2,7 +2,7 @@
 date = "2019-01-01T18:30:52"
 title = "recent release"
 image = "the_underscore.jpeg"
-alt = "this is some music"
+alt = "most recent release"
 color = "#F7F7F7"
 link1 = "https://airportpeople.bandcamp.com/album/the-underscore"
 link2 = ""

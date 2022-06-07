@@ -6,9 +6,8 @@ math = true
 +++
 
 leon johnson.  
-indianapolis, in based.  
-ambient, neoclassical, quasi-jazz.  
-multi-instrumentalist and composer.  
+indianapolis, in.  
+ambient, neoclassical.  
 
 2022.06.14 fishers, in[^fn:fishers]  
 2022.06.25 garfield, in[^fn:garfield]  
