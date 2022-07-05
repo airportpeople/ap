@@ -1,14 +1,14 @@
 +++
 date = "2019-01-01T18:30:52"
 title = "recent release"
-image = "the_underscore.jpeg"
+image = "fm2.jpeg"
 alt = "most recent release"
 color = "#F7F7F7"
-link1 = "https://airportpeople.bandcamp.com/album/the-underscore"
+link1 = "https://airportpeople.bandcamp.com/track/from-morning-no-2"
 link2 = ""
 
 +++
 
-# the underscore
+# from morning no. 2
 
-This is a distillation of melody from a previous release, *underscore dash apostrophe.*
+The first single from the [*from nine mornings* LP](https://airportpeople.bandcamp.com/album/from-nine-mornings), which releases on August 5th, 2022.
