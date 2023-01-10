@@ -1,14 +1,14 @@
 +++
 date = "2019-01-01T18:30:52"
-title = "recent release"
-image = "fm2.jpeg"
-alt = "most recent release"
+title = "from nine mornings"
+image = "fnm.jpg"
+alt = "from nine mornings"
 color = "#F7F7F7"
-link1 = "https://airportpeople.bandcamp.com/track/from-morning-no-2"
+link1 = "https://airportpeople.bandcamp.com/album/from-nine-mornings"
 link2 = ""
 
 +++
 
-# from morning no. 2
+# .||.||.||
 
-The first single from the [*from nine mornings* LP](https://airportpeople.bandcamp.com/album/from-nine-mornings), which releases on August 5th, 2022.
+In the fall of 2020, I recorded a new melody on my piano each morning, yielding several different melodies. So, this record consists of a prelude, and nine interpretations of nine melodies recorded in 2020.
